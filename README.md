@@ -12,3 +12,5 @@
     * as the easier and more useful date and time managing in TS
 * typescript
     * type annotations my beloved
+* prettier
+     * as the cool formatter for better coding since im ass at the consistency of the code
